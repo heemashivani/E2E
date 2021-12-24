@@ -1,0 +1,8 @@
+13:08:03.174 [TestNG-tests-3] INFO  resources.base - Sucessfully logged in using given data
+21:23:56.611 [main] INFO  resources.base - Driver intilized
+21:24:24.263 [main] INFO  resources.base - Navigated to HomePage
+21:25:49.599 [main] INFO  resources.base - Driver intilized
+21:26:13.195 [main] INFO  resources.base - Navigated to HomePage
+21:26:15.691 [main] INFO  resources.base - Sucessfully validated text message
+21:30:53.319 [main] INFO  resources.base - Driver intilized
+21:31:26.517 [main] INFO  resources.base - Navigated to HomePage

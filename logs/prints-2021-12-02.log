@@ -1,0 +1,7 @@
+17:32:27.051 [TestNG-tests-2] INFO  resources.base - Driver intilized
+17:32:27.051 [TestNG-tests-3] INFO  resources.base - Driver intilized
+17:46:07.212 [TestNG-tests-3] INFO  resources.base - Driver intilized
+17:46:07.212 [TestNG-tests-2] INFO  resources.base - Driver intilized
+17:48:46.799 [TestNG-tests-2] INFO  resources.base - Navigated to HomePage
+17:49:04.152 [TestNG-tests-3] INFO  resources.base - Sucessfully logged in using given data
+17:49:14.118 [TestNG-tests-3] INFO  resources.base - Sucessfully logged in using given data

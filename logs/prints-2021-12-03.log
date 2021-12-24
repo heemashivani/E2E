@@ -1,0 +1,7 @@
+10:23:37.126 [TestNG-tests-2] INFO  resources.base - Navigated to HomePage
+10:23:52.383 [TestNG-tests-1] INFO  resources.base - Navigation bar is validated
+10:24:03.879 [TestNG-tests-3] INFO  resources.base - Sucessfully logged in using given data
+10:24:12.620 [TestNG-tests-3] INFO  resources.base - Sucessfully logged in using given data
+10:31:51.602 [TestNG-tests-2] INFO  resources.base - Driver intilized
+10:31:51.614 [TestNG-tests-3] INFO  resources.base - Driver intilized
+10:33:42.463 [TestNG-tests-1] INFO  resources.base - Navigation bar is validated
